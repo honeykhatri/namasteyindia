@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 21, 2016, 4:39:49 PM
+    Author     : honey_000
+*/
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.thumb {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+.section-heading{
+   
+            background: url("../img/travel.jpg" ) no-repeat right top #26a9e7;
+            padding: 0 25px 0 10px;
+            line-height: 50px;
+            font-size: 40px;
+            color: #fff;
+            text-transform: uppercase;
+            font-family: 'MyriadProRegular';
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+ text-align: center;
+     
+    
+}
+.container{
+    background-color:   rgba(0,0,0,0.1);
+}

@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 20, 2016, 10:58:50 PM
+    Author     : honey_000
+*/
+body{
+    background: url('../fest-img/fests.jpg') no-repeat
+        center fixed;
+    background-size: cover;
+    color:white;
+    
+}
+section ul li p{
+    font-family: cursive;
+    font-size: 20px;
+}

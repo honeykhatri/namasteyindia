@@ -1,0 +1,40 @@
+
+
+section{
+    background-color: rgba(190,120,120,0.2);
+}
+p{
+    color: black;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.cuisine1 h4 {
+            float: left;
+            background: url("../img/navbtn1.png" ) no-repeat right top #26a9e7;
+            padding: 0 25px 0 10px;
+            line-height: 37px;
+            font-size: 18px;
+            color: #fff;
+            text-transform: uppercase;
+            font-family: 'MyriadProRegular';
+    }
+    footer{
+        color:whitesmoke;
+    }
+    
+.section-heading{
+   
+            background: url("../img/travel.jpg" ) no-repeat right top #26a9e7;
+            padding: 0 25px 0 10px;
+            line-height: 50px;
+            font-size: 40px;
+            color: #fff;
+            text-transform: uppercase;
+            font-family: 'MyriadProRegular';
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+ text-align: center;           
+    
+}

@@ -1,0 +1,94 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2016, 10:06:15 PM
+    Author     : honey_000
+*/
+
+html, body{ height: 100%; margin: 0; padding: 0;}
+#background {
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: -999;
+    width: 100%;
+    height: 100%;
+}
+.container-fluid{margin: 0; padding: 0; height: 100%;}
+.embed-responsive{height: 100%;}
+
+.intro-text{
+    margin-top: 40em;
+}
+header .header-content {
+  position: relative;
+  text-align: center;
+  margin-top: 10em;
+  padding: 100px 15px 100px;
+  width: 100%;
+}
+.quotes {display: none;}
+footer{
+    background-color: rgba(100,100,0,0.23);
+}
+
+
+section#discover{
+    background-color: rgba(120,50,0,0.3);
+}
+
+p{
+    text-align: justify;
+}
+
+section#travel{
+     background: url('../img/back.jpg') no-repeat
+        center fixed;
+    background-size: cover;
+   
+}
+section#travel h1,h3 {
+  display: inline-block;
+  padding: 10px;
+  background: rgba(0,0,0,0.4);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  color:whitesmoke;
+
+    
+}
+
+section#fest{
+     background-color: rgba(140,100,100,0.2);
+}
+
+section#fest .container h1,h3 {
+    display: inline-block;
+  padding: 10px;
+ color:whitesmoke;
+
+    
+}
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+}
+.section-heading{
+   
+            background: url("../img/travel.jpg" ) no-repeat right top #26a9e7;
+            padding: 0 25px 0 10px;
+            line-height: 50px;
+            font-size: 40px;
+            color: #fff;
+            text-transform: uppercase;
+            font-family: 'MyriadProRegular';
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+ text-align: center;           
+    
+}
